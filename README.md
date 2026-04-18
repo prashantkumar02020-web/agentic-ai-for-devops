@@ -23,7 +23,7 @@ You start with zero LLM experience and end up building **KubeHealer** — an AI 
 | Module | What You'll Build |
 |--------|-------------------|
 | [Module 0 — Know Before You Go](module-0/) | Set up your environment and verify everything works |
-| Module 1 — kubectl Error Explainer | Paste a K8s error, get a human-readable fix (your first LLM tool) |
+| Module 1 — Docker Error Explainer | Paste a Docker error, get a human-readable fix (your first LLM tool) |
 | Module 2 — Docker Troubleshooter Agent | An AI agent that inspects containers and diagnoses crashes on its own |
 | Module 3 — Multi-Tool DevOps Agent + MCP | Combine Docker + K8s tools, intro to LangChain and MCP |
 
